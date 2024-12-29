@@ -29,6 +29,7 @@ pip install torch torchvision matplotlib
 ## Dataset Preparation
 
 1. Organize your dataset into the following structure:
+2. <a href="https://www.kaggle.com/datasets/belalsafy/egyptian-new-currency-2023">data link</a>
 
    ```
    path_to_dataset/
@@ -43,7 +44,7 @@ pip install torch torchvision matplotlib
    └── ...
    ```
 
-2. Replace `path_to_dataset` in the script with the actual path to your dataset directory.
+3. Replace `path_to_dataset` in the script with the actual path to your dataset directory.
 
 ## Usage
 
