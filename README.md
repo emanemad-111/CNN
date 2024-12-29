@@ -88,11 +88,4 @@ pip install torch torchvision matplotlib
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request for improvements or new features.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
 
